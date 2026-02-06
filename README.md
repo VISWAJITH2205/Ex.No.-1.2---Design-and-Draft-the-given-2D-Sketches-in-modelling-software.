@@ -1,3 +1,7 @@
+# Name : VISWAJITH LALITHRAM R.V
+
+# Reg.No : 212224240187
+
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
